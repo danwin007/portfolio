@@ -1,43 +1,30 @@
-# portfolio
-Portfolio space, prompted by CF Lab 04B
+# ReadMe for Code Fellows Lab 05 - Deploy and Extend Your Portfolio
+https://canvas.instructure.com/courses/1787408/assignments/13267449
 
-Prologue by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Time Estimates
 
+Number and name of feature: Deployment
 
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
+Estimate of time needed to complete: 2 hours
 
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
+Start time: 6:30pm
 
-http://ineedchemicalx.deviantart.com/
+Finish time: 8:30pm
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+Actual time needed to complete: 2 hours, completed 1/13/20 during snow-cancelled class
 
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
+**/////////**
 
-(* = Not included)
+Number and name of feature: Add Functionality
+* use CDNs for library content, remove source code
+* tablet view nav menu
+* large image convert
+* add UI elements to taste
 
-AJ
-aj@lkn.io | @ajlkn
+Estimate of time needed to complete: 3 hours
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+Start time: 6:45pm
 
+Finish time: _____
 
-Credits:
-
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Actual time needed to complete: _____
